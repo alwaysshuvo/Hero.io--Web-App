@@ -1,5 +1,8 @@
 # App Showcase Platform
 
+## Live Link
+https://hero-io-web-app.netlify.app/
+
 ## Description
 App Showcase Platform is a dynamic web application built with React that allows users to browse and view detailed information about a collection of apps. Each app displays images, descriptions, ratings, downloads, and reviews. The platform provides a smooth and interactive user experience with responsive design for both desktop and mobile devices.
 
