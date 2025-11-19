@@ -83,46 +83,47 @@ Includes:
 
 ### **Main Dependencies**
 
-"@tailwindcss/vite": "^4.1.14"
-"axios": "^1.12.2"
-"lucide-react": "^0.545.0"
-"react": "^19.1.1"
-"react-dom": "^19.1.1"
-"react-icons": "^5.5.0"
-"react-router": "^7.9.3"
-"react-router-dom": "^6.30.1"
-"react-toastify": "^11.0.5"
-"recharts": "^3.2.1"
-"tailwindcss": "^4.1.14"
+- "@tailwindcss/vite": "^4.1.14"
+- "axios": "^1.12.2"
+- "lucide-react": "^0.545.0"
+- "react": "^19.1.1"
+- "react-dom": "^19.1.1"
+- "react-icons": "^5.5.0"
+- "react-router": "^7.9.3"
+- "react-router-dom": "^6.30.1"
+- "react-toastify": "^11.0.5"
+- "recharts": "^3.2.1"
+- "tailwindcss": "^4.1.14"
 
 
 ### **Dev Dependencies**
 
-"@vitejs/plugin-react": "^5.0.4"
-"daisyui": "^5.1.27"
-"eslint": "^9.36.0"
-"vite": "^7.1.7"
+- "@vitejs/plugin-react": "^5.0.4"
+- "daisyui": "^5.1.27"
+- "daisyui": "^5.1.27"
+- "eslint": "^9.36.0"
+- "vite": "^7.1.7"
 
 
 ---
 
-## 🧩 Project Structure
+# 🧩 Project Structure
 
 src/
-│── Components/
-│── Hooks/
-│── Layouts/
-│── Pages/
-│── Routes/
-│── App.jsx
-│── main.jsx
-│── index.css
-│── App.css
-public/
-index.html
-package.json
-tailwind.config.js
-vite.config.js
+- │── Components/
+- │── Hooks/
+- │── Layouts/
+- │── Pages/
+- │── Routes/
+- │── App.jsx
+- │── main.jsx
+- │── index.css
+- │── App.css
+- public/
+- index.html
+- package.json
+- tailwind.config.js
+- vite.config.js
 
 
 ---
@@ -155,12 +156,12 @@ npm run build
 
 - 🌐 Live Project: https://hero-io-web-app.netlify.app/
 
-- 📁 Repository: (your GitHub link here)
+- 📁 Repository: https://github.com/alwaysshuvo/Hero.io--Web-App
 
 - 🎨 Tailwind Docs: https://tailwindcss.com/
 
 - ⚛️ React Docs: https://react.dev/
 
-##📄 License
+#📄 License
 
 This project is open-source and free to use.
